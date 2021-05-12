@@ -1,0 +1,2 @@
+su <username>
+ssh -p<portnumber> <name>@<ip>

@@ -1,0 +1,1 @@
+ifconfig | grep inet | awk  'NR == 5 {print $2}'

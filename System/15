@@ -1,0 +1,3 @@
+pkill tail 
+or 
+jobs <to show processes> then run: kill <processnumber>
